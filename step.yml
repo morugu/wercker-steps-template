@@ -3,3 +3,5 @@ version: 1.0.0
 summary: wercker steps template exmaple.
 tags:
   - wercker
+  - steps
+  - template
